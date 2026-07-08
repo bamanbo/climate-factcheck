@@ -1,6 +1,6 @@
 README.md
 pyproject.toml
-src/_init_.py
+src/factcheck/__init__.py
 src/factcheck/baseline.py
 src/factcheck/data.py
 src/factcheck/evaluate.py

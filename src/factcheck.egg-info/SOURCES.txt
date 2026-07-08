@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/_init_.py
+src/factcheck/baseline.py
+src/factcheck/data.py
+src/factcheck/evaluate.py
+src/factcheck.egg-info/PKG-INFO
+src/factcheck.egg-info/SOURCES.txt
+src/factcheck.egg-info/dependency_links.txt
+src/factcheck.egg-info/top_level.txt
+tests/test_evaluate.py

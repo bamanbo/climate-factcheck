@@ -1,4 +1,6 @@
-#!/Users/bjornolavlilleaas/master_project/GitHub/climate-factcheck/.venv/bin/python3.14
+#!/bin/sh
+'''exec' "/Users/bjornolavlilleaas/MASTER PROJECT/GitHub/climate-factcheck/.venv/bin/python3.14" "$0" "$@"
+' '''
 import sys
 from pip._internal.cli.main import main
 if __name__ == '__main__':
